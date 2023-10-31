@@ -1,3 +1,7 @@
+这是啥？
+与 ue4-export-nav-data 配套使用，在非 DS 架构上无缝结合 UE 的 Recast 数据计算寻路。
+
+------
 ### What is this?
 
 This is recast navigation detour tool.It can verify the Recast Navigation data exported from the UE.
